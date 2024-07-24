@@ -471,7 +471,7 @@ body {
   box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
   /* glassmorphism */
 
-  background-color: rgba(238, 208, 10, 0.75);
+  background-color: rgba(252, 169, 0);
   border-radius: 12px;
   border: 1px solid rgba(255, 255, 255, 0.125);
   padding: 20px 20px 0px 0px;
@@ -947,7 +947,7 @@ img.logo {
   transform: scale(1.05);
   background-color: rgba(255, 255, 255, 0.3);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  border: 2px solid #007bff;
+  border: 2px solid rgb(237, 125, 5);
 }
 
 .slide-card img {
@@ -1053,7 +1053,7 @@ img.logo {
   text-align: center;
   font-size: 1rem;
   color: #ffffff;
-  background-color: #fa709a;
+  background-color: rgb(237, 125, 5);
   padding: 0.8rem 1.8rem;
   border-radius: 2rem;
   cursor: pointer;
@@ -1064,7 +1064,7 @@ img.logo {
   text-align: center;
   font-size: 1rem;
   color: #ffffff;
-  background-color: #fa709a;
+  background-color: rgb(237, 125, 5);
   padding: 0.8rem 1.8rem;
   border-radius: 2rem;
   cursor: pointer;
@@ -1087,11 +1087,6 @@ img.logo {
   height: 520px;
   -webkit-filter: blur(30px);
   filter: blur(30px);
-  /* box-shadow:
-    inset 0 0 0 5px rgba(255,255,255, 0.6),
-    inset 100px 100px 0 0px #fa709a,
-    inset 200px 200px 0 0px #784ba8,
-    inset 300px 300px 0 0px #2b86c5; */
 }
 
 @-webkit-keyframes move {
@@ -1412,8 +1407,8 @@ h1.big-heading {
 
 .footer-dark .item.social1 > a:hover {
   opacity: 0.7;
-  background-color: #c44a73;
-  color: #c44a73;
+  background-color: rgb(237, 125, 5);
+  color: rgb(250, 169, 0);
 }
 .one {
   border: 0;
