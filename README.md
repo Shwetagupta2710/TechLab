@@ -1,6 +1,6 @@
 # TechLab Website
 
-Welcome to the TechLab Website! This website was designed to showcase TechLab’s features, services, and resources. It is a project aimed at providing an engaging and user-friendly interface for visitors to learn about TechLab and explore various tech-related content.
+Welcome to the TechLab Website! This website was designed to showcase TechLab’s features, services, and resources. It is a project aimed at providing an engaging and user-friendly interface for visitors to learn about TechLab and explore various tech-related content. 
 
 ## Website Link
 [TechLab Website](https://tech-lab-website.netlify.app)
